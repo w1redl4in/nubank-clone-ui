@@ -6,11 +6,12 @@ interface TransparentLinkProps {
 }
 
 export const Container = styled.nav`
-  position: sticky;
+  position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: center;
 
+  width: 100%;
   height: 80px;
   background: ${(props) => props.theme.colors.white};
 `;
@@ -72,6 +73,8 @@ export const LoginButton = styled.span`
   align-items: center;
   color: ${(props) => props.theme.colors.primary};
   font-weight: 500;
+
+  cursor: pointer;
 `;
 
 export const IWannaBeNubank = styled.button`
