@@ -7,6 +7,7 @@ import ContentFive from '../../components/content';
 import ContentSix from '../../components/content';
 import ContentSeven from '../../components/content';
 import ContentEight from '../../components/content';
+import Footer from '../../components/footer';
 import Navbar from '../../components/navbar';
 import {
   SectionOne,
@@ -31,6 +32,7 @@ const Home: React.FC = () => {
       <ContentSix {...SectionSix} />
       <ContentSeven {...SectionSeven} />
       <ContentEight {...SectionEight} />
+      <Footer />
     </>
   );
 };
