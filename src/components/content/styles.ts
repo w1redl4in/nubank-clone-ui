@@ -22,16 +22,6 @@ export const Container = styled.main<ContentProps>`
   align-items: center;
 `;
 
-export const ColumnOne = styled.section`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  width: 50%;
-  height: 100%;
-  color: white;
-`;
-
 export const ColumnTwo = styled.section`
   display: flex;
   justify-content: center;
@@ -40,6 +30,23 @@ export const ColumnTwo = styled.section`
   width: 50%;
   height: 100%;
   color: white;
+
+  @media screen and (max-width: 950px) {
+    width: 0%;
+  }
+`;
+
+export const ColumnOne = styled.section`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+  height: 100%;
+  color: white;
+  @media screen and (max-width: 950px) {
+    width: 100%;
+  }
 `;
 
 export const MainTitle = styled.section`
@@ -85,6 +92,10 @@ export const Image = styled.img<ImageProps>`
   height: ${(props) => (props.isImageHand ? '90vh' : '530px')};
   margin-top: ${(props) => (props.isImageHand ? '10vh' : 'none')};
   display: ${(props) => props.hasBackground && 'none'};
+
+  @media screen and (max-width: 950px) {
+    display: none;
+  }
 `;
 
 export const ButtonWrapper = styled.div`
