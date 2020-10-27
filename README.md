@@ -1,4 +1,6 @@
-<img align="center" width="100" height="100" src="https://cdn.discordapp.com/attachments/263762535763673089/770446798191591424/NUBANK_CLONE_UI.png">
+<p align="center">
+<img width="100" height="100" src="https://cdn.discordapp.com/attachments/263762535763673089/770446798191591424/NUBANK_CLONE_UI.png">
+</p>
 
 ## Available Scripts
 
