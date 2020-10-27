@@ -15,9 +15,11 @@
  <a href="#autor">Autor</a>
 </p>
 
-<p id="objetivo">
-  Praticar o uso de libs como styled-components juntamente com a componentização do React JS
-</p>
+<h4 id="objetivo"> Objetivo
+  <p>
+    Praticar o uso de libs como styled-components juntamente com a componentização do React JS
+  </p>
+</h4>
 
 ### `yarn start`
 
