@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://cdn.discordapp.com/attachments/263762535763673089/770446798191591424/NUBANK_CLONE_UI.png)
 
 ## Available Scripts
 
