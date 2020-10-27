@@ -72,8 +72,9 @@ const SecondLine = [
     links: ['0800 608 6236', 'meajuda@nubank.com.br', 'Atendimento 24h'],
   },
   {
+    hasTiltedArrow: true,
     title: 'Baixe o app',
-    links: ['Auxílio Emergencial e FGTS', 'Tudo sobre o Pix'],
+    links: ['AppStore', 'PlayStore'],
   },
 ];
 

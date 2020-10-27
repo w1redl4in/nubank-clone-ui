@@ -27,7 +27,10 @@ const Footer: React.FC = () => {
             <FooterS.ColumnTitle>{footer.title}</FooterS.ColumnTitle>
             <FooterS.ColumnDescription>
               {footer.links.map((link) => (
-                <FooterS.Description>{link}</FooterS.Description>
+                <FooterS.Description>
+                  {link}
+                  {footer.hasTiltedArrow && <FooterS.TiltedArrow />}
+                </FooterS.Description>
               ))}
             </FooterS.ColumnDescription>
           </FooterS.Column>
