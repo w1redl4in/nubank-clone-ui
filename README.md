@@ -37,5 +37,5 @@
 
 <h2 id="executar">Como executar</h2>
 
-> yarn
+> yarn  
 > yarn start
