@@ -12,7 +12,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a>
+ <a href="#autor">Autor</a> •
  <a href="#executar">Como executar</a>
 </p>
 
