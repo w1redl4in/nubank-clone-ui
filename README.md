@@ -17,12 +17,12 @@
 
 <h4 id="objetivo">Objetivo</h4>
 <p>
-  Praticar o uso de libs como styled-components juntamente com a componentização do React JS
+  Me desafiar a construir UIs cada vez mais complexas
 </p>
 
 <h4 id="roadmap">Roadmap</h4>
-- [x] Footer
-- [ ] Implementar react-scroll
+- [x] Footer  
+- [ ] Implementar react-scroll  
 - [ ] Ícones da PlayStore + AppStore
 
 ### `yarn start`
