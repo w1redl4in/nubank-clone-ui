@@ -18,7 +18,7 @@ import {
   SectionSix,
   SectionSeven,
   SectionEight,
-} from '../../data';
+} from '../../data/section';
 
 const Home: React.FC = () => {
   return (
