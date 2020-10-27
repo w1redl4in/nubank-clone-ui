@@ -2,9 +2,22 @@
 <img width="300" height="300" src="https://cdn.discordapp.com/attachments/263762535763673089/770446798191591424/NUBANK_CLONE_UI.png">
 </p>
 
-## Available Scripts
+<h1 align="center">Nubank Clone UI</h1>
 
-In the project directory, you can run:
+<p align="center">Clone da UI de um dos maiores bancos digitais nacional.</p>
+
+# Informações
+
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
+<p id="objetivo">
+  Praticar o uso de libs como styled-components juntamente com a componentização do React JS
+</p>
 
 ### `yarn start`
 
