@@ -36,7 +36,6 @@
 - Felipe Austríaco de Sousa Araújo
 
 <h2 id="executar">Como executar</h2>
-`
-yarn 
-yarn start
-`
+
+> yarn
+> yarn start
