@@ -15,11 +15,15 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 id="objetivo"> Objetivo 
-</h4>
- <p>
-    Praticar o uso de libs como styled-components juntamente com a componentização do React JS
-  </p>
+<h4 id="objetivo">Objetivo</h4>
+<p>
+  Praticar o uso de libs como styled-components juntamente com a componentização do React JS
+</p>
+
+<h4 id="roadmap">Roadmap</h4>
+- [x] Footer
+- [ ] Implementar react-scroll
+- [ ] Ícones da PlayStore + AppStore
 
 ### `yarn start`
 
