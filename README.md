@@ -21,8 +21,8 @@
 </p>
 
 <h4 id="roadmap">Roadmap</h4>
-- [x] Footer  
-- [ ] Implementar react-scroll  
+- [x] Footer  <br />
+- [ ] Implementar react-scroll  <br />
 - [ ] Ícones da PlayStore + AppStore
 
 ### `yarn start`
